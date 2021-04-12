@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(69, 77, 69);
+    color: white;
+}
+
+.main-conteiner{
+    width: 90%;
+    margin: 0 auto;
+    min-width: 310px;
+}
+
+.img-1{
+    width: 90%;
+}
