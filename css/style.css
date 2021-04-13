@@ -94,3 +94,30 @@ body{
 }
 
 /* --------- 4º ------- */
+
+.description-experts{
+    padding-top: 30px;
+}
+
+.title-pic{
+    margin: 10px 40px;
+    /* padding-bottom: 15px; */
+}
+.jobs{
+    margin: 10px 40px ;
+    padding-bottom: 25px;
+}
+
+.text-pic{
+    width: 247px;
+    height: 247px;
+    background-color:gray;
+    margin: 0 40px;
+
+    
+}
+
+
+.title-conteiner-testimonial{
+    border: 1px solid gray;
+}
